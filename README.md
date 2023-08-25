@@ -12,6 +12,8 @@ This repository contains a guideline and collection of resources for BeMoBIL mem
 ## Useful links & publications  
 - Good practices for mistake prevention  
        Strand, J. F. (2023). Error tight: Exercises for lab groups to prevent research mistakes. Psychological Methods. Advance online publication. https://doi.org/10.1037/met0000547  
+- Organizing analysis scripts  
+       van Vliet M (2020) Seven quick tips for analysis scripts in neuroimaging. PLoS Comput Biol 16(3): e1007358. https://doi.org/10.1371/journal.pcbi.1007358
 - Good readme writing  
        https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/   
        https://www.makeareadme.com/

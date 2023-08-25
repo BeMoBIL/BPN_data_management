@@ -4,7 +4,7 @@
 - Marie Curie (mcurie@fakemail.com)
 
 ## Project contributors
-- Galileio Galilei (ggleo@fakemail.com)
+- Galileo Galilei (ggleo@fakemail.com)
 - Pythagoras (pythyboy@fakemail.com)
 
 ## Dates

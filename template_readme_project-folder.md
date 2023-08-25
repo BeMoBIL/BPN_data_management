@@ -19,14 +19,14 @@ It would be a neat one if it did.
 - Curie, M., Galilei, G., Pythagoras, Title of an imaginary paper, Journal of Imaginary Science, 2023. 
 
 ## Folder contents
-- Project-Imagination_Data
-        - Source data and intermediate output
-        - OpenNeuro : URL 
-- Project-Imagination_Analysis_EEG
-        - Open main.m and configure config.m to run the anaylsis
+- Project-Imagination_Data  
+        - Source data and intermediate output  
+        - OpenNeuro : URL   
+- Project-Imagination_Analysis_EEG  
+        - Open main.m and configure config.m to run the anaylsis  
         - Git Repository : URL  
-- Project-Imagination_Analysis_Gait
-       - Open main.m and configure config.m to run the anaylsis
+- Project-Imagination_Analysis_Gait  
+       - Open main.m and configure config.m to run the anaylsis  
        - Git Repository : URL 
 
 ## Acknowledgements 

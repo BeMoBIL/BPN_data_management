@@ -5,7 +5,7 @@ This repository contains a guideline and collection of resources for management 
 Our workflow deals with multimodal data sets and complex analysis methods, which makes it prone to clutter and chaos.   
 By taking a moment to think about how to structure the project efficiently,  
 you can save your own time in the long run, save digital storage space,  
-and enable other researchers to benefit your outputs even when you are no longer working on the project.
+and enable other researchers to benefit from your outputs even when you are no longer working on the project.
 
 Implementing good practices in data and script management is not only a matter of practicality,  
 but also an ethical action respecting the resources that go into our research.  

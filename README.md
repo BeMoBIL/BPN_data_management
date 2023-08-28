@@ -1,13 +1,22 @@
 # BPN_data_management
-This repository contains a guideline and collection of resources for BeMoBIL member to refer to for management of data (and scripts). 
 
-## Please refer to this 
+This repository contains a guideline and collection of resources for management of data and scripts.  
+
+Our workflow deals with multimodal data sets and complex analysis methods, which makes it prone to clutter and chaos.   
+By taking a moment to think about how to structure the project efficiently,  
+you can save your own time in the long run, save digital storage space,  
+and enable other researchers to benefit your outputs even when you are no longer working on the project.
+
+Implementing good practices in data and script management is not only a matter of practicality,  
+but also an ethical action respecting the resources that go into our research.  
+
+At all stages of project development, we should keep this question in mind :  
+When a fellow neuroscientist sets their eyes on the project for the first time, how easily can they navigate through the structure and reproduce the workflow?  
+
+## Please throw a look at this repository 
 - When you set your project up 
-- When you wrap up a project 
-
-## Components 
-- Tools and resources for setting up a project
-- README template 
+- When you publicize your data / scripts
+- When you wrap up your project and archive it 
 
 ## Useful links & publications  
 - Good practices for mistake prevention  
@@ -19,3 +28,23 @@ This repository contains a guideline and collection of resources for BeMoBIL mem
        https://www.makeareadme.com/
 - Setting up a Python project  
        https://goodresearch.dev/setup
+- Open source licensing 
+
+## Step-by-step guide
+### For setting up a project
+1. Set up a project folder in BPN Projects (P:) drive by creating a folder named "Project_[your project name]".  
+	Please make sure you choose a name that can be intuitively understood. 
+	For instance, use "Project_Virtual_Watermaze" instead of "Project_vWM". 
+ 	It also has to be somewhat specific to the project. 
+	For example, use a name like "Project_Hexa_Navigation" and avoid using an overly generic name such as "Project_Navigation".  
+2. Drop a README file (link to template) into the folder.  
+	Fill out all details at hand and update them on a regular basis as you populate the contents of your folder.  	
+
+### For managing data sets
+1. We keep at least two copies of data - []
+
+### For managing analysis scripts   
+1. We strongly recommend the use of version control system such as git. 
+
+### For archiving a project
+1. Please make sure that archived data sets have no redundancy. 

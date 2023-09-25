@@ -23,14 +23,16 @@ When a fellow researcher sets their eyes on the project for the first time, how 
 ### For setting up a project
 1. Set up a project folder in BPN Projects (P:) drive by creating a folder named "**Project_(your project name)**".
    	You can also copy the [template project folder](https://github.com/BeMoBIL/BPN_data_management/tree/main/template_project_folder) to start with a predifined structure.
+   	Optionally, store these project folders under a folder named after you.
+        Using underscores in directory names instead of space bar is recommended for better parsing of path by certain software applications (For example, P:\Sein_Jeung\Project_Virtual_Navigation). 
 
-2. Please make sure you choose a name that can be intuitively understood.   
+3. Please make sure you choose a name that can be intuitively understood.   
 	For instance, use "**Project_Virtual_Watermaze**" instead of "**Project_vWM**".
 
  	It also has to be somewhat specific to the project.  
 	For example, use a name like "**Project_Hexa_Navigation**" and avoid using an overly generic name such as "**Project_Navigation**".
 
-3. Drop a [README file](https://github.com/BeMoBIL/BPN_data_management/blob/main/template_project_folder/Project_Watermaze-ERD/README.md) into the folder.    
+4. Drop a [README file](https://github.com/BeMoBIL/BPN_data_management/blob/main/template_project_folder/Project_Watermaze-ERD/README.md) into the folder.    
 	Fill out all details at hand and update them on a regular basis as you populate the contents of your folder.  	
 
 ### For managing data sets

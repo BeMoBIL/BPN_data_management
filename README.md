@@ -34,24 +34,26 @@ When a fellow researcher sets their eyes on the project for the first time, how 
 	Fill out all details at hand and update them on a regular basis as you populate the contents of your folder.  	
 
 ### For managing data sets
-1. Keep the unprocessed source data in its own folder. 
-2. We recommend BIDS-formatting data once data collection is finished. 
-3. In case of an active project, save intermediate outputs, especially the outputs of operations that take longer computing time. 
+1. Keep the unprocessed source data in its own folder and have at least one backup copy of the entire data set. 
+2. In case of an active project, save intermediate outputs, especially the outputs of operations that take longer computing time.
+3. We recommend BIDS-formatting the data at any stage, but especially before sharing or archiving the data set.  
+   Modalities for which there is no BIDS extension also benefit from pseudo-BIDS format and rich metadata. 
 
 ### For managing analysis scripts   
 1. Keep analysis scripts in a separate folder from data.  
 2. We recommend the use of version control systems such as git.  
 3. Use easy-to-understand names for variables and functions.  
-4. Use lots of comments that can help future self/ other users understand what operations are being performed.  
+4. Actively use comments that can help future self/ other users understand what operations are being performed.  
 
 ### For archiving a project
 1. Check if all the relevant metadata are in place (README files, BIDS metadata, .etc).  
-2. Check if there is any redundancy in saved data (duplicated files, outdated files, results that can easily be reproduced).
-   Identify intermediae output that can be easily/quickly reconstructed with analysis scripts provided (if any). 
-   Delete redundant data files to use disk space efficiently.
-3. Figure out usage rights of archived materials and provide license as needed.  
-4. Double check if README file has information about : contact of the project lead, license, and what the intended usage of the archived materials is.    
-5. Best to check with someone unfamiliar with the project, if the structure/usage of the archived materials is understandable from documentation.
+2. Check if there is any redundancy in saved data (duplicated files, outdated files, results that can easily be reproduced).  
+   Identify intermediae output that can be easily/quickly reconstructed with analysis scripts provided (if any).  
+   Delete redundant data files to use disk space efficiently.  
+3. Figure out usage rights of archived materials and provide license as needed.
+   Lack of license file may make the archived materials unusable. 
+5. Double check if README file has information about : contact of the project lead, license, and what the intended usage of the archived materials is.    
+6. Best to request a meeting with someone unfamiliar with the project, to make sure that the structure/usage of the archived materials is understandable from documentation.
 
 ## Useful links & publications  
 - Good practices for mistake prevention  

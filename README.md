@@ -11,7 +11,7 @@ Implementing good practices in data and script management is not only a matter o
 but also an ethical action respecting the resources that go into our research.  
 
 At all stages of project development, we should keep this question in mind :  
-When a fellow neuroscientist sets their eyes on the project for the first time, how easily can they navigate through the structure and reproduce the workflow?  
+When a fellow researcher sets their eyes on the project for the first time, how easily can they navigate through the structure and reproduce the workflow?  
 
 ## Please throw a look at this repository 
 - When you set your project up 

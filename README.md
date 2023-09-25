@@ -18,17 +18,6 @@ When a fellow neuroscientist sets their eyes on the project for the first time, 
 - When you publicize your data / scripts
 - When you wrap up your project and archive it 
 
-## Useful links & publications  
-- Good practices for mistake prevention  
-       Strand, J. F. (2023). Error tight: Exercises for lab groups to prevent research mistakes. Psychological Methods. Advance online publication. https://doi.org/10.1037/met0000547  
-- Organizing analysis scripts  
-       van Vliet M (2020) Seven quick tips for analysis scripts in neuroimaging. PLoS Comput Biol 16(3): e1007358. https://doi.org/10.1371/journal.pcbi.1007358
-- Good readme writing  
-       https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/   
-       https://www.makeareadme.com/
-- Setting up a Python project  
-       https://goodresearch.dev/setup
-- Open source licensing 
 
 ## Step-by-step guide
 ### For setting up a project
@@ -45,10 +34,34 @@ When a fellow neuroscientist sets their eyes on the project for the first time, 
 	Fill out all details at hand and update them on a regular basis as you populate the contents of your folder.  	
 
 ### For managing data sets
-1. We keep at least two copies of data - []
+1. Keep the unprocessed source data in its own folder. 
+2. We recommend BIDS-formatting data once data collection is finished. 
+3. In case of an active project, save intermediate outputs, especially the outputs of operations that take longer computing time. 
 
 ### For managing analysis scripts   
-1. We strongly recommend the use of version control system such as git. 
+1. Keep analysis scripts in a separate folder from data.  
+2. We recommend the use of version control systems such as git.  
+3. Use easy-to-understand names for variables and functions.  
+4. Use lots of comments that can help future self/ other users understand what operations are being performed.  
 
 ### For archiving a project
-1. Please make sure that archived data sets have no redundancy. 
+1. Check if all the relevant metadata are in place (README files, BIDS metadata, .etc).  
+2. Check if there is any redundancy in saved data (duplicated files, outdated files, results that can easily be reproduced).
+   Identify intermediae output that can be easily/quickly reconstructed with analysis scripts provided (if any). 
+   Delete redundant data files to use disk space efficiently.
+3. Figure out usage rights of archived materials and provide license as needed.  
+4. Double check if README file has information about : contact of the project lead, license, and what the intended usage of the archived materials is.    
+5. Best to check with someone unfamiliar with the project, if the structure/usage of the archived materials is understandable from documentation.
+
+## Useful links & publications  
+- Good practices for mistake prevention  
+       Strand, J. F. (2023). Error tight: Exercises for lab groups to prevent research mistakes. Psychological Methods. Advance online publication. https://doi.org/10.1037/met0000547  
+- Organizing analysis scripts  
+       van Vliet M (2020) Seven quick tips for analysis scripts in neuroimaging. PLoS Comput Biol 16(3): e1007358. https://doi.org/10.1371/journal.pcbi.1007358
+- Good readme writing  
+       https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/   
+       https://www.makeareadme.com/
+- Setting up a Python project  
+       https://goodresearch.dev/setup
+- Open source licensing 
+

@@ -36,10 +36,13 @@ When a fellow researcher sets their eyes on the project for the first time, how 
 	Fill out all details at hand and update them on a regular basis as you populate the contents of your folder.  	
 
 ### For managing data sets
-1. Keep the unprocessed source data in its own folder and have at least one backup copy of the entire data set. 
-2. In case of an active project, save intermediate outputs, especially the outputs of operations that take longer computing time.
-3. We recommend BIDS-formatting the data at any stage, but especially before sharing or archiving the data set.  
-   Modalities for which there is no BIDS extension also benefit from pseudo-BIDS format and rich metadata. 
+1. In the lab, data is to be saved onto a **different** drive than the one with the OS (usually Windows, C) on it.    
+2. During or after data collection, the data files are copied into Project folder, which is automatically backed up.
+   (Once everything is securely copied to another disk, it is helpful to remove the initial copies of data saved on lab PC for disc space management.)         
+4. Keep the unprocessed source data in its own folder separate from any derivative outputs.   
+5. In case of an active project, save intermediate outputs, especially the outputs of operations that take longer computing time.    
+6. We recommend BIDS-formatting the data at any stage, but especially before sharing or archiving the data set.      
+   Modalities for which there is no BIDS extension also benefit from pseudo-BIDS format and rich metadata.     
 
 ### For managing analysis scripts   
 1. Keep analysis scripts in a separate folder from data.  
